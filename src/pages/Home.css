@@ -1,0 +1,15 @@
+.home {
+  padding: 60px 6%;
+}
+
+.home h1 {
+  font-size: 36px;
+  color: #123b32;
+  margin-bottom: 16px;
+}
+
+.home p {
+  font-size: 16px;
+  color: #64748b;
+  line-height: 1.7;
+}
