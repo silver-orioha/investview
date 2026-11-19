@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Fixed Income Fund",
+      "description": "A professionally managed fund focused on generating stable income through fixed-income securities.",
+      "category": "Fixed Income",
+      "minimumInvestment": 50000,
+      "duration": "12 months",
+      "risk": "Low",
+      "objectives": "To provide investors with relatively stable income and capital preservation.",
+      "performance": null
+    },
+    {
+      "id": "2",
+      "name": "Equity Growth Fund",
+      "description": "A fund that invests primarily in company shares with the objective of long-term capital growth.",
+      "category": "Equities",
+      "minimumInvestment": 100000,
+      "duration": "3 years",
+      "risk": "High",
+      "objectives": "To achieve long-term capital appreciation through equity investments.",
+      "performance": null
+    },
+    {
+      "id": "3",
+      "name": "Money Market Fund",
+      "description": "A short-term investment fund focused on money market instruments and liquidity.",
+      "category": "Money Market",
+      "minimumInvestment": 10000,
+      "duration": "30 days",
+      "risk": "Low",
+      "objectives": "To provide liquidity and income through short-term money market instruments.",
+      "performance": null
+    },
+    {
+      "id": "4",
+      "name": "Balanced Investment Fund",
+      "description": "A diversified fund combining equity and fixed-income investments.",
+      "category": "Balanced",
+      "minimumInvestment": 75000,
+      "duration": "2 years",
+      "risk": "Medium",
+      "objectives": "To balance capital growth and income through diversified investments.",
+      "performance": null
+    },
+    {
+      "id": "5",
+      "name": "Real Estate Investment Fund",
+      "description": "A fund providing exposure to income-generating real estate assets.",
+      "category": "Real Estate",
+      "minimumInvestment": 200000,
+      "duration": "5 years",
+      "risk": "Medium",
+      "objectives": "To provide long-term growth and potential income through real estate exposure.",
+      "performance": null
+    }
+  ],
+  "enquiries": []
+}
